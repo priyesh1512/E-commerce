@@ -4,6 +4,7 @@ Project Description:
 
 This project involves analyzing a large dataset of e-commerce transactions to gain insights into customer behavior, sales trends, and product performance. The dataset includes information on customer demographics, order details, product information, and payment methods.
 
+
 Dataset:
 
 The dataset consists of 119,151 entries across 42 columns, including:
