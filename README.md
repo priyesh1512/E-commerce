@@ -17,44 +17,64 @@ Seller information (seller_id, seller_zip_code_prefix, seller_city, seller_state
 Geolocation information (geolocation_zip_code_prefix, geolocation_lat, geolocation_lng, geolocation_city, geolocation_state)
 Analysis:
 
+
 The analysis includes:
 
 Data cleaning and preprocessing
+
 Data visualization (histograms, bar charts, line charts)
+
 Descriptive statistics (mean, median, mode, standard deviation)
+
 Correlation analysis
+
 Regression analysis
+
 Clustering analysis
+
 Insights:
+
 
 The analysis reveals:
 
 The top-selling products and categories
+
 The most popular payment methods
+
 The average order value and revenue
+
 The customer retention rate
+
 The product return rate
+
 The correlation between product features and sales
+
 Code:
 
 The code is written in Python using the Pandas library for data manipulation and analysis. The code includes:
 
 Data loading and cleaning
+
 Data visualization
+
 Descriptive statistics
+
 Correlation analysis
+
 Regression analysis
+
 Clustering analysis
+
 Requirements:
 
 Python 3.x
-Pandas library
-NumPy library
-Matplotlib library
-Seaborn library
-Usage:
 
-Clone the repository
-Install the required libraries
-Run the code using Python
-Explore the results and insights
+Pandas library
+
+NumPy library
+
+Matplotlib library
+
+Seaborn library
+
+
